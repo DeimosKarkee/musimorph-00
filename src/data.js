@@ -27,3 +27,42 @@ export const datas = [
     altImgText: "Air Tools for morphing sounds",
   },
 ];
+
+export const objects = [
+  {
+    shape: "Cube",
+    colour: "Blue",
+    image:
+      "https://drive.google.com/uc?export=view&id=1ZdUFhLR52T7c5okSH_TSzJ8NMI1Fy4aA",
+  },
+  {
+    shape: "Pyramid",
+    colour: "Red",
+    image:
+      "https://drive.google.com/uc?export=view&id=1EhMH3-WiVguBUYPqztUJZ-JyaGv-KWhh",
+  },
+  {
+    shape: "Sphere",
+    colour: "Green",
+    image:
+      "https://drive.google.com/uc?export=view&id=1D-YXQ2eieYGE8euCHrkPDd_67uCyRiFS",
+  },
+  {
+    shape: "Cone",
+    colour: "Yellow",
+    image:
+      "https://drive.google.com/uc?export=view&id=11c6fz9VuOFa3lrXx55NkyTDwblJNTGTY",
+  },
+  {
+    shape: "Cylinder",
+    colour: "Orange",
+    image:
+      "https://drive.google.com/uc?export=view&id=1hue70Pf3w1AVUWfKsNoqB23Of5xTNBBI",
+  },
+  {
+    shape: "Hemisphere",
+    colour: "Purple",
+    image:
+      "https://drive.google.com/uc?export=view&id=1RRyg3dIWZsVkUGuyGQzh_iTk-o5b5vns",
+  },
+];

@@ -59,6 +59,14 @@ a {
   line-height: 1.6;
 }
 
+.heading-secondary {
+  font-size: 3.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.1px;
+  line-height: 1.4;
+}
+
 .cta {
   display: inline-block;
   padding: 1.2rem 2.4rem;
@@ -228,6 +236,11 @@ a {
 .btn-accept-all-cookies {
   background-color: red;
   color: #fff;
+}
+
+.object-image {
+  height: 200px;
+  width: 200px;
 }
 
 /* font sizes -6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 21, 24, 30, 36, 48, 60, and 72 */
