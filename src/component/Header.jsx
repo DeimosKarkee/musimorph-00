@@ -1,5 +1,6 @@
 import NavBar from "./NavBar";
 
+// This is the header section
 function Header() {
   return (
     <header className="header">
